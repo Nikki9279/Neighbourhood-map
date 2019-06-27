@@ -5,7 +5,6 @@
 ## Description
 
 This app uses Google maps and Foursquare's API to list places.
-The project was built for the Udacity FEND.
 
 ## How to Run the App in Development Mode
 
